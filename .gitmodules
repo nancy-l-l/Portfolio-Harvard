@@ -1,3 +1,6 @@
 [submodule "OCTDiff"]
 	path = OCTDiff
 	url = https://github.com/nancy-l-l/OCTDiff
+[submodule "Thumb-Print-Matching"]
+	path = Thumb-Print-Matching
+	url = https://github.com/nancy-l-l/Thumb-Print-Matching
