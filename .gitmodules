@@ -4,3 +4,6 @@
 [submodule "Thumb-Print-Matching"]
 	path = Thumb-Print-Matching
 	url = https://github.com/nancy-l-l/Thumb-Print-Matching
+[submodule "Reading-Aid-VR"]
+	path = Reading-Aid-VR
+	url = https://github.com/nancy-l-l/Reading-Aid-VR
