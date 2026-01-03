@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td align="center" valign="top">
-       <a href="./Thumb-Print-Matching/">
+       <a href="https://github.com/nancy-l-l/Thumb-Print-Matching/tree/main">
           <img src="./Assets/Biometric_Authentication.jpg" width="360" />
         </a>
       <br />
@@ -13,7 +13,7 @@
     </td>
     <tr>
     <td align="center" valign="top">
-      <a href="./OCTDiff/">
+      <a href="https://github.com/nancy-l-l/OCTDiff/tree/main">
         <img src="./Assets/OCTDiff.jpg" width="360" />
       </a>
       <br />
@@ -23,7 +23,7 @@
 
   <tr>
     <td align="center" valign="top">
-     <a href="./Reading-Aid-VR/">
+     <a href="https://github.com/nancy-l-l/Reading-Aid-VR/tree/main">
         <img src="./Assets/VR_Reading_Aid.jpg" width="360" />
       </a>
       <br />
